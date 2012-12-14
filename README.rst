@@ -11,7 +11,9 @@ specific intrinsics present in the LLVM xCORE backend.
 Recommended reading
 ===================
 
+* `Getting started with LLVM <http://llvm.org/docs/GettingStarted.html>`_
 * `LLVM language reference manual <http://llvm.org/docs/LangRef.html>`_
+* `Tools Development Guide <https://www.xmos.com/node/14310?version=latest>`_ (contains the xCORE ABI)
 * `The XMOS XS1 Architecture <https://www.xmos.com/node/14080?version=latest>`_
 
 Representation of resources
