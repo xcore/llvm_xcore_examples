@@ -2,6 +2,9 @@
 LLVM xCORE examples
 ===================
 
+:Maintainer: https://github.com/rlsosborne
+:Description: LLVM IR examples for the xCORE backend
+
 Introduction
 ============
 
